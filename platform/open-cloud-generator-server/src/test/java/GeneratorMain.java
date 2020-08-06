@@ -1,6 +1,7 @@
 import com.opencloud.generator.server.service.GenerateConfig;
 import com.opencloud.generator.server.service.GeneratorService;
 
+
 import java.io.File;
 
 public class GeneratorMain {
@@ -20,5 +21,6 @@ public class GeneratorMain {
         config.setOutputDir(outputDir);
         GeneratorService.execute(config);
     }
+
 
 }
