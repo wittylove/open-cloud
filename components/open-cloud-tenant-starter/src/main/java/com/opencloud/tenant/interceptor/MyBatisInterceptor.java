@@ -12,7 +12,7 @@ import java.util.Properties;
 /**
  * MyBatis拦截器
  *
- * @author liuyadu
+ * @author: szz
  */
 @Intercepts(@Signature(type = StatementHandler.class, method = "prepare", args = {Connection.class, Integer.class}))
 public class MyBatisInterceptor implements Interceptor {

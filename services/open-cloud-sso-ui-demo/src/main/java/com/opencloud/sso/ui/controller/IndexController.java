@@ -7,7 +7,7 @@ import org.springframework.ui.ModelMap;
 import org.springframework.web.bind.annotation.GetMapping;
 
 /**
- * @author: liuyadu
+ * @author: szz
  * @date: 2018/10/29 15:59
  * @description:
  */

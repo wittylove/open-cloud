@@ -8,7 +8,7 @@ import com.opencloud.task.client.model.entity.TaskJobLogs;
 /**
  * 异步通知日志接口
  *
- * @author: liuyadu
+ * @author: szz
  * @date: 2019/2/13 14:39
  * @description:
  */

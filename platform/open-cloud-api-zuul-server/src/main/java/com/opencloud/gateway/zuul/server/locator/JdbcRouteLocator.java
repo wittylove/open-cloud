@@ -25,7 +25,7 @@ import java.util.concurrent.CopyOnWriteArrayList;
 /**
  * 自定义动态路由加载器
  *
- * @author: liuyadu
+ * @author: szz
  * @date: 2018/10/23 10:31
  * @description:
  */

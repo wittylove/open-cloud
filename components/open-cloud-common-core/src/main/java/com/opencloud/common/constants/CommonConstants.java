@@ -1,7 +1,7 @@
 package com.opencloud.common.constants;
 
 /**
- * @author liuyadu
+ * @author: szz
  */
 public class CommonConstants {
     /**

@@ -16,7 +16,7 @@ import java.util.Map;
 
 /**
  * @Description: 处理多个文件上传
- * @author: liuyadu
+ * @author: szz
  * @date 2019/8/16 下午4:26
  */
 public class FeignSpringFormEncoder extends SpringFormEncoder {

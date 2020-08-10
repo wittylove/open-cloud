@@ -3,7 +3,7 @@ package com.opencloud.base.client.constants;
 /**
  * 通用权限常量
  *
- * @author liuyadu
+ * @author: szz
  */
 public class BaseConstants {
 

@@ -14,7 +14,7 @@ import lombok.experimental.Accessors;
 /**
  * 系统应用-基础信息
  *
- * @author liuyadu
+ * @author: szz
  */
 @Data
 @EqualsAndHashCode(callSuper = true)

@@ -5,7 +5,7 @@ import com.opencloud.msg.client.model.entity.EmailConfig;
 import org.springframework.stereotype.Repository;
 
 /**
- * @author liuyadu
+ * @author: szz
  */
 @Repository
 public interface EmailConfigMapper extends SuperMapper<EmailConfig> {

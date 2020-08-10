@@ -1,7 +1,7 @@
 package com.opencloud.msg.client.constatns;
 
 /**
- * @author: liuyadu
+ * @author: szz
  * @date: 2019/3/12 11:24
  * @description:
  */

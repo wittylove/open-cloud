@@ -16,7 +16,7 @@ import java.util.Map;
 /**
  * 二维码工具类
  *
- * @author liuyadu
+ * @author: szz
  */
 public class QRCodeUtils {
 

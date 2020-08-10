@@ -17,7 +17,7 @@ import java.util.Map;
 /**
  * QQ互联oauth2认证实现类
  *
- * @author liuyadu
+ * @author: szz
  */
 @Service("qqAuthService")
 @Slf4j

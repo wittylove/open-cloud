@@ -35,7 +35,7 @@ import org.springframework.web.filter.CorsFilter;
 /**
  * 网关配置类
  *
- * @author: liuyadu
+ * @author: szz
  * @date: 2018/10/23 10:31
  * @description:
  */

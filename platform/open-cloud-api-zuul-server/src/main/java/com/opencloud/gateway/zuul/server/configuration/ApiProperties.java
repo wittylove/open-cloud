@@ -7,7 +7,7 @@ import java.util.Set;
 /**
  * 网关属性配置类
  *
- * @author: liuyadu
+ * @author: szz
  * @date: 2018/11/23 14:40
  * @description:
  */

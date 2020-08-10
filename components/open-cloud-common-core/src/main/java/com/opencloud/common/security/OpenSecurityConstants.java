@@ -1,7 +1,7 @@
 package com.opencloud.common.security;
 
 /**
- * @author liuyadu
+ * @author: szz
  */
 public class OpenSecurityConstants {
     public final static String OPEN_ID = "openid";

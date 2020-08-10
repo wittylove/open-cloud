@@ -15,7 +15,7 @@ import java.io.IOException;
 
 /**
  * 网关权限异常处理,记录日志
- * @author liuyadu
+ * @author: szz
  */
 @Slf4j
 public class JsonAccessDeniedHandler implements AccessDeniedHandler {

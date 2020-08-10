@@ -43,7 +43,7 @@ import java.io.InputStream;
 /**
  * zuul响应超时熔断处理器
  *
- * @author: liuyadu
+ * @author: szz
  * @date: 2018/10/23 10:31
  * @description:
  */

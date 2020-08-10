@@ -5,7 +5,7 @@ import com.opencloud.common.mybatis.base.mapper.SuperMapper;
 import org.springframework.stereotype.Repository;
 
 /**
- * @author liuyadu
+ * @author: szz
  */
 @Repository
 public interface BaseActionMapper extends SuperMapper<BaseAction> {

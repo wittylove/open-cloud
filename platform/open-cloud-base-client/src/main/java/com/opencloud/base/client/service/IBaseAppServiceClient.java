@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 
 /**
- * @author liuyadu
+ * @author: szz
  */
 public interface IBaseAppServiceClient {
 

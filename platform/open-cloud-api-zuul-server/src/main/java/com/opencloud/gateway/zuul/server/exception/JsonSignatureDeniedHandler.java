@@ -14,7 +14,7 @@ import java.io.IOException;
 /**
  * 自定义签名错误处理器
  *
- * @author liuyadu
+ * @author: szz
  */
 @Slf4j
 public class JsonSignatureDeniedHandler implements SignatureDeniedHandler {

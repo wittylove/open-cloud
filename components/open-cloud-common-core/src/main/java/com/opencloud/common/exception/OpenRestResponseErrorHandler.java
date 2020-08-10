@@ -7,7 +7,7 @@ import java.io.IOException;
 
 /**
  * 自定RestTemplate异常处理
- * @author liuyadu
+ * @author: szz
  */
 public class OpenRestResponseErrorHandler implements ResponseErrorHandler {
     @Override

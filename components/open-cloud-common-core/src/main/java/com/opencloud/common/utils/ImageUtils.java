@@ -9,7 +9,7 @@ import java.net.MalformedURLException;
 
 /**
  * 图片工具类
- * @author liuyadu
+ * @author: szz
  */
 public final class ImageUtils {
 

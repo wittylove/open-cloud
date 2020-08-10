@@ -12,7 +12,7 @@ import javax.servlet.http.HttpServletResponse;
 /**
  * zuul代理后响应处理器
  *
- * @author liuyadu
+ * @author: szz
  */
 @Slf4j
 public class ZuulResponseFilter extends ZuulFilter {

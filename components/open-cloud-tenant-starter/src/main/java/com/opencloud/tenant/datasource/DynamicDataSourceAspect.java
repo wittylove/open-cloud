@@ -13,7 +13,7 @@ import org.slf4j.LoggerFactory;
  * 多数据源,AOP。方法执行前切换数据源
  * Multiple DataSource Aspect
  *
- * @author liuyadu
+ * @author: szz
  */
 @Aspect
 public class DynamicDataSourceAspect {

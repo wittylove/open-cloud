@@ -24,7 +24,7 @@ import java.util.concurrent.*;
 /**
  * 访问日志处理类
  *
- * @author: liuyadu
+ * @author: szz
  * @date: 2019/5/8 11:27
  * @description:
  */

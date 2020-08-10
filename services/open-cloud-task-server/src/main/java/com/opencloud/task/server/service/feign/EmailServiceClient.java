@@ -6,7 +6,7 @@ import org.springframework.cloud.openfeign.FeignClient;
 import org.springframework.stereotype.Component;
 
 /**
- * @author: liuyadu
+ * @author: szz
  * @date: 2019/4/1 12:57
  * @description:
  */

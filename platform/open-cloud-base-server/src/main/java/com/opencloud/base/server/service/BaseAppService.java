@@ -9,7 +9,7 @@ import com.opencloud.common.security.OpenClientDetails;
 /**
  * 应用信息管理
  *
- * @author liuyadu
+ * @author: szz
  */
 public interface BaseAppService extends IBaseService<BaseApp> {
 

@@ -31,7 +31,7 @@ import org.springframework.context.annotation.Configuration;
 
 /**
  * Mq配置
- * @author liuyadu
+ * @author: szz
  */
 @Configuration
 public class RabbitConfiguration {

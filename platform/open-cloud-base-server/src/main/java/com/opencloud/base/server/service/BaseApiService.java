@@ -11,7 +11,7 @@ import java.util.List;
 /**
  * 接口资源管理
  *
- * @author liuyadu
+ * @author: szz
  */
 public interface BaseApiService extends IBaseService<BaseApi> {
     /**

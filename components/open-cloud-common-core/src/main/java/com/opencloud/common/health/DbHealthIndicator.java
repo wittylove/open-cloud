@@ -5,7 +5,7 @@ import org.springframework.boot.actuate.health.HealthIndicator;
 
 /**
  * 健康检查一直失败。主要是db检测失败，抛出以下错误
- * @author liuyadu
+ * @author: szz
  */
 public class DbHealthIndicator implements HealthIndicator {
     @Override

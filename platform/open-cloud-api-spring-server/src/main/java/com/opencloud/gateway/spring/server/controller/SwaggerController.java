@@ -17,7 +17,7 @@ import springfox.documentation.swagger.web.UiConfiguration;
 import java.util.Optional;
 
 /**
- * @author liuyadu
+ * @author: szz
  */
 @RestController
 @RequestMapping("/swagger-resources")

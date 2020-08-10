@@ -8,7 +8,7 @@ import com.opencloud.common.mybatis.base.service.IBaseService;
  * 系统用户登录账号管理
  * 支持多账号登陆
  *
- * @author liuyadu
+ * @author: szz
  */
 public interface BaseAccountService extends IBaseService<BaseAccount> {
 

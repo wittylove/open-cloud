@@ -13,7 +13,7 @@ import org.springframework.security.oauth2.provider.token.store.JwtAccessTokenCo
 import java.util.Map;
 
 /**
- * @author liuyadu
+ * @author: szz
  */
 @Slf4j
 public class OpenJwtTokenService implements ResourceServerTokenServices {

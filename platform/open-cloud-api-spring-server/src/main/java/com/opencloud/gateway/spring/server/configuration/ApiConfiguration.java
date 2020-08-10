@@ -52,7 +52,7 @@ import java.util.TimeZone;
 /**
  * 网关配置类
  *
- * @author liuyadu
+ * @author: szz
  */
 @Slf4j
 @Configuration

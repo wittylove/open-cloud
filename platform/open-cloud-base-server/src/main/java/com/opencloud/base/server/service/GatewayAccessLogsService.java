@@ -6,7 +6,7 @@ import com.opencloud.common.model.PageParams;
 
 /**
  * 网关访问日志
- * @author liuyadu
+ * @author: szz
  */
 public interface GatewayAccessLogsService {
     /**

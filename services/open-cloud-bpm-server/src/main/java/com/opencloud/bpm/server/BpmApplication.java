@@ -9,7 +9,7 @@ import org.springframework.cloud.openfeign.EnableFeignClients;
 /**
  * 工作流服务
  *
- * @author liuyadu
+ * @author: szz
  */
 @EnableFeignClients
 @EnableDiscoveryClient

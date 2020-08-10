@@ -34,7 +34,7 @@ import static java.util.Collections.synchronizedMap;
 /**
  * 自定义动态路由加载器
  *
- * @author liuyadu
+ * @author: szz
  */
 @Slf4j
 public class JdbcRouteDefinitionLocator implements ApplicationListener<RemoteRefreshRouteEvent>, ApplicationEventPublisherAware {

@@ -8,7 +8,7 @@ import java.util.Objects;
 
 /**
  * API权限
- * @author liuyadu
+ * @author: szz
  */
 @JsonIgnoreProperties(ignoreUnknown = true)
 public class AuthorityApi extends BaseApi implements Serializable {

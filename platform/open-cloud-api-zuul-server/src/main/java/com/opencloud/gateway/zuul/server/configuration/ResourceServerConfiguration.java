@@ -27,7 +27,7 @@ import org.springframework.security.web.authentication.preauth.AbstractPreAuthen
 /**
  * oauth2资源服务器配置
  *
- * @author: liuyadu
+ * @author: szz
  * @date: 2018/10/23 10:31
  * @description:
  */

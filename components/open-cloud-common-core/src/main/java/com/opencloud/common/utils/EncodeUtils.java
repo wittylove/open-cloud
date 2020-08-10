@@ -15,7 +15,7 @@ import java.net.URLEncoder;
  * 3.Commons-Lang的xml/html escape
  * 4.JDK提供的URLEncoder
  *
- * @author Liuyadu
+ * @author: szz
  * @version 2015-04-15
  */
 public class EncodeUtils {

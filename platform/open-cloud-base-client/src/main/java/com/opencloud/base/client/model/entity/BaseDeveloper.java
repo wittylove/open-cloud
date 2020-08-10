@@ -15,7 +15,7 @@ import org.codehaus.jackson.annotate.JsonIgnore;
 /**
  * 系统用户-管理员信息
  *
- * @author liuyadu
+ * @author: szz
  */
 @Data
 @EqualsAndHashCode(callSuper = true)

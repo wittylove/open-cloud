@@ -7,7 +7,7 @@ import java.util.Objects;
 
 /**
  * 功能权限
- * @author liuyadu
+ * @author: szz
  */
 @JsonIgnoreProperties(ignoreUnknown = true)
 public class AuthorityAction extends BaseAction {

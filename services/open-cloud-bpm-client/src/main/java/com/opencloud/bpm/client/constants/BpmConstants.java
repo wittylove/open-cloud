@@ -1,7 +1,7 @@
 package com.opencloud.bpm.client.constants;
 
 /**
- * @author: liuyadu
+ * @author: szz
  * @date: 2019/3/12 11:22
  * @description:
  */

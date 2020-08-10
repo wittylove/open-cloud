@@ -12,7 +12,7 @@ import org.springframework.web.client.RestTemplate;
 
 /**
  * 任务调度服务
- * @author liuyadu
+ * @author: szz
  */
 @EnableFeignClients
 @EnableDiscoveryClient

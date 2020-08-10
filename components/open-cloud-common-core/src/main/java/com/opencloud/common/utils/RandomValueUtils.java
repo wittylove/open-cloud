@@ -12,7 +12,7 @@ import java.util.UUID;
 /**
  * 随机生成工具类
  *
- * @author liuyadu
+ * @author: szz
  * @date 2017/5/9
  */
 @Service

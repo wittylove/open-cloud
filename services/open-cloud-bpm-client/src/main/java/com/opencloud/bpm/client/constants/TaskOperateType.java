@@ -3,7 +3,7 @@ package com.opencloud.bpm.client.constants;
 /**
  * 流程操作类型
  *
- * @author: liuyadu
+ * @author: szz
  * @date: 2019/4/4 13:25
  * @description:
  */

@@ -5,7 +5,7 @@ import org.slf4j.LoggerFactory;
 import org.springframework.jdbc.datasource.lookup.AbstractRoutingDataSource;
 
 /**
- * @author liuyadu
+ * @author: szz
  */
 public class DynamicRoutingDataSource extends AbstractRoutingDataSource {
 

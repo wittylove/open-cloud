@@ -34,7 +34,7 @@ import java.util.Locale;
 /**
  * Swagger文档生成配置
  *
- * @author liuyadu
+ * @author: szz
  */
 @Slf4j
 @Configuration

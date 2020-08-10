@@ -12,7 +12,7 @@ import lombok.experimental.Accessors;
 /**
  * 系统权限-菜单权限、操作权限、API权限
  *
- * @author liuyadu
+ * @author: szz
  */
 @Data
 @EqualsAndHashCode(callSuper = true)

@@ -12,7 +12,7 @@ import org.springframework.transaction.annotation.Transactional;
 /**
  * 邮件模板配置 服务实现类
  *
- * @author liuyadu
+ * @author: szz
  * @date 2019-07-17
  */
 @Service

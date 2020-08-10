@@ -5,7 +5,7 @@ import com.opencloud.msg.client.model.WebHookMessage;
 import java.util.Map;
 
 /**
- * @author: liuyadu
+ * @author: szz
  * @date: 2019/2/13 14:39
  * @description:
  */

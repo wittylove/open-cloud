@@ -17,7 +17,7 @@ import java.util.Map;
 /**
  * 微信oauth2认证实现类
  *
- * @author liuyadu
+ * @author: szz
  */
 @Service("wechatAuthService")
 @Slf4j

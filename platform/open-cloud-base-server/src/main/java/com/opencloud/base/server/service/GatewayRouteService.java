@@ -10,7 +10,7 @@ import java.util.List;
 /**
  * 路由管理
  *
- * @author liuyadu
+ * @author: szz
  */
 public interface GatewayRouteService extends IBaseService<GatewayRoute> {
     /**

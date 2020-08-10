@@ -11,7 +11,7 @@ import java.util.List;
 import java.util.Map;
 
 /**
- * @author liuyadu
+ * @author: szz
  */
 public class BeanConvertUtils {
     /**

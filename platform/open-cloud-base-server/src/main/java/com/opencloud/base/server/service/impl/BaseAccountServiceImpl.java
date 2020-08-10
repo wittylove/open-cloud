@@ -19,7 +19,7 @@ import java.util.Date;
 /**
  * 通用账号
  *
- * @author liuyadu
+ * @author: szz
  */
 @Slf4j
 @Service

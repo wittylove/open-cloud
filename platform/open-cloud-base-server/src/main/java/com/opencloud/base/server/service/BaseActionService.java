@@ -10,7 +10,7 @@ import java.util.List;
 /**
  * 操作资源管理
  *
- * @author liuyadu
+ * @author: szz
  */
 public interface BaseActionService extends IBaseService<BaseAction> {
     /**

@@ -8,7 +8,7 @@ import lombok.NoArgsConstructor;
 import lombok.experimental.Accessors;
 
 /**
- * @author liuyadu
+ * @author: szz
  */
 @Data
 @EqualsAndHashCode(callSuper = true)

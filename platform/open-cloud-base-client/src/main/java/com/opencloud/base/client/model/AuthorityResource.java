@@ -5,7 +5,7 @@ import java.io.Serializable;
 /**
  * 资源权限
  *
- * @author liuyadu
+ * @author: szz
  */
 public class AuthorityResource implements Serializable {
     private static final long serialVersionUID = -320031660125425711L;

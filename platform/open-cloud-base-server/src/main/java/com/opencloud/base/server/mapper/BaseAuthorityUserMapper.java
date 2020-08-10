@@ -10,7 +10,7 @@ import org.springframework.stereotype.Repository;
 import java.util.List;
 
 /**
- * @author liuyadu
+ * @author: szz
  */
 @Repository
 public interface BaseAuthorityUserMapper extends SuperMapper<BaseAuthorityUser> {

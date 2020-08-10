@@ -9,7 +9,7 @@ import org.activiti.engine.impl.persistence.entity.TaskEntity;
 /**
  * 任务完成监听
  *
- * @author liuyadu
+ * @author: szz
  */
 @Slf4j
 public class TaskCompletedListener implements ActivitiEventListener {

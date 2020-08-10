@@ -32,7 +32,7 @@ import java.util.concurrent.atomic.AtomicReference;
 /**
  * 访问权限控制管理类
  *
- * @author liuyadu
+ * @author: szz
  */
 @Slf4j
 @Component

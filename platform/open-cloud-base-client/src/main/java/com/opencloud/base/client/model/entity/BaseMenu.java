@@ -12,7 +12,7 @@ import lombok.experimental.Accessors;
 /**
  * 系统资源-菜单信息
  *
- * @author: liuyadu
+ * @author: szz
  * @date: 2018/10/24 16:21
  * @description:
  */

@@ -4,7 +4,7 @@ import com.opencloud.bpm.client.model.TaskOperate;
 
 /**
  * 自定义流程接口
- * @author: liuyadu
+ * @author: szz
  * @date: 2019/4/4 13:54
  * @description:
  */

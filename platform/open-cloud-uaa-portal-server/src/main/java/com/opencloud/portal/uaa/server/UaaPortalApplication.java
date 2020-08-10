@@ -33,7 +33,7 @@ import org.springframework.cloud.openfeign.EnableFeignClients;
 /**
  * 移动应用认证中心
  *
- * @author liuyadu
+ * @author: szz
  */
 @EnableFeignClients
 @SpringBootApplication

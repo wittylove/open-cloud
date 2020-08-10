@@ -12,7 +12,7 @@ import lombok.experimental.Accessors;
 /**
  * 系统用户-登录账号
  *
- * @author liuyadu
+ * @author: szz
  */
 @Data
 @EqualsAndHashCode(callSuper = true)

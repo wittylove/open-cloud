@@ -9,7 +9,7 @@ import org.activiti.engine.impl.persistence.entity.TaskEntity;
 /**
  * 任务创建监听
  *
- * @author liuyadu
+ * @author: szz
  */
 @Slf4j
 public class TaskCreatedListener implements ActivitiEventListener {

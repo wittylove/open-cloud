@@ -12,7 +12,7 @@ import java.util.Date;
 
 /**
  * 系统用户-登录日志
- * @author liuyadu
+ * @author: szz
  */
 @Data
 @NoArgsConstructor

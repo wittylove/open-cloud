@@ -20,7 +20,7 @@ import java.util.Map;
 /**
  * 声名为配置类，继承Activiti抽象配置类
  *
- * @author liuyadu
+ * @author: szz
  */
 @Configuration
 public class ProcessEngineConfiguration extends AbstractProcessEngineAutoConfiguration {

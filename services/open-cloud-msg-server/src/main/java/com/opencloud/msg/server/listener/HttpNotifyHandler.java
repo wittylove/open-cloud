@@ -23,7 +23,7 @@ import java.util.Map;
 /**
  * 消息接收者
  *
- * @author liuyadu
+ * @author: szz
  */
 @Configuration
 public class HttpNotifyHandler {

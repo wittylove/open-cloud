@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 import java.util.List;
 
 /**
- * @author liuyadu
+ * @author: szz
  */
 public interface IGatewayServiceClient {
 

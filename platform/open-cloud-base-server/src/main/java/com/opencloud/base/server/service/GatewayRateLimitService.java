@@ -11,7 +11,7 @@ import java.util.List;
 
 /**
  * 访问日志
- * @author liuyadu
+ * @author: szz
  */
 public interface GatewayRateLimitService extends IBaseService<GatewayRateLimit> {
 

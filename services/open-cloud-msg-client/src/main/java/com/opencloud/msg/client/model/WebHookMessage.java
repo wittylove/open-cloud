@@ -9,7 +9,7 @@ import java.util.Map;
 /**
  * 异步通知消息
  *
- * @author liuyadu
+ * @author: szz
  */
 @ApiModel("异步通知消息")
 public class WebHookMessage extends BaseMessage {

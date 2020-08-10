@@ -5,7 +5,7 @@ import com.opencloud.msg.client.model.entity.WebHookLogs;
 import org.springframework.stereotype.Repository;
 
 /**
- * @author liuyadu
+ * @author: szz
  */
 @Repository
 public interface WebHookLogsMapper extends BaseMapper<WebHookLogs> {
